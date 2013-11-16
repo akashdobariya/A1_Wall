@@ -1,0 +1,3 @@
+First import .SQL file in PhpMyAdmin and give the database name as "facebook".
+
+After import successfull then run index.php file.
